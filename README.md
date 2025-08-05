@@ -1,2 +1,2 @@
-# Advance-Excel-Certificate
-My Advance Excel Completion Certificate
+# Certificates
+My Certificates
